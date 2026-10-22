@@ -1,0 +1,263 @@
+{
+ "summary": {
+  "revenue_cagr_10y": 0.10482598182379133,
+  "revenue_cagr_5y": 0.13769872814489337,
+  "eps_cagr_5y": 0.2136715224359833,
+  "price_oct21_2026": 204.59,
+  "market_cap_ttm": 54906.0,
+  "ev_ttm": 60329.0
+ },
+ "ratios_5y": {
+  "FY 2022": {
+   "revenue": 4331.0,
+   "gross_margin": 0.47310090048487646,
+   "operating_margin": 0.22788039713691988,
+   "net_margin": 0.15312168090510273,
+   "ebitda_sa_margin": 0.24728700069268067,
+   "effective_tax": 0.2577,
+   "roe": -10.043465091625018,
+   "roa": 0.16318159448818897,
+   "current_ratio": 0.7866847975084714,
+   "inventory_days": 94.51772567922873,
+   "net_debt_incl_leases": 3545.94,
+   "fcf": 1022.0,
+   "fcf_margin": 0.2359732163472639,
+   "fcf_after_leases": 792.42,
+   "capex": 136.77,
+   "buybacks": 1060.0,
+   "dividends": 60.46,
+   "eps_diluted": 2.18,
+   "shares_diluted_m": 304.0,
+   "ocf": 1159.0
+  },
+  "FY 2023": {
+   "revenue": 5053.0,
+   "gross_margin": 0.4652681575301801,
+   "operating_margin": 0.22679596279437958,
+   "net_margin": 0.15868988719572533,
+   "ebitda_sa_margin": 0.2452008707698397,
+   "effective_tax": 0.25489999999999996,
+   "roe": 28.22456881379796,
+   "roa": 0.16636099585062242,
+   "current_ratio": 0.9948409286328461,
+   "inventory_days": 129.2994263508512,
+   "net_debt_incl_leases": 4117.74,
+   "fcf": 734.99,
+   "fcf_margin": 0.1454561646546606,
+   "fcf_after_leases": 481.42,
+   "capex": 134.05,
+   "buybacks": 689.0,
+   "dividends": 62.98,
+   "eps_diluted": 2.76,
+   "shares_diluted_m": 291.0,
+   "ocf": 869.04
+  },
+  "FY 2024": {
+   "revenue": 5867.0,
+   "gross_margin": 0.44537242202147603,
+   "operating_margin": 0.24203170274416227,
+   "net_margin": 0.1721493096983126,
+   "ebitda_sa_margin": 0.25975796829725584,
+   "effective_tax": 0.252,
+   "roe": 2.6519627149796507,
+   "roa": 0.1918693009118541,
+   "current_ratio": 1.931105701851442,
+   "inventory_days": 102.83824523663183,
+   "net_debt_incl_leases": 4018.1,
+   "fcf": 1278.0,
+   "fcf_margin": 0.21782853246974604,
+   "fcf_after_leases": 993.1600000000001,
+   "capex": 252.67,
+   "buybacks": 655.87,
+   "dividends": 76.13,
+   "eps_diluted": 3.56,
+   "shares_diluted_m": 284.0,
+   "ocf": 1531.0
+  },
+  "FY 2025": {
+   "revenue": 6413.0,
+   "gross_margin": 0.4512708560736005,
+   "operating_margin": 0.24653048495244034,
+   "net_margin": 0.18228598159987525,
+   "ebitda_sa_margin": 0.26461874317791984,
+   "effective_tax": 0.2446,
+   "roe": 0.984006734006734,
+   "roa": 0.18031775412617615,
+   "current_ratio": 1.1844181459566074,
+   "inventory_days": 95.53893151463484,
+   "net_debt_incl_leases": 4574.95,
+   "fcf": 1431.0,
+   "fcf_margin": 0.2231404958677686,
+   "fcf_after_leases": 1113.17,
+   "capex": 212.83,
+   "buybacks": 1091.0,
+   "dividends": 97.24,
+   "eps_diluted": 4.16,
+   "shares_diluted_m": 281.0,
+   "ocf": 1644.0
+  },
+  "FY 2026": {
+   "revenue": 7256.0,
+   "gross_margin": 0.4505237045203969,
+   "operating_margin": 0.24062844542447628,
+   "net_margin": 0.18040242557883132,
+   "ebitda_sa_margin": 0.2550992282249173,
+   "effective_tax": 0.25780000000000003,
+   "roe": 0.8990384615384616,
+   "roa": 0.173193966657846,
+   "current_ratio": 1.129080118694362,
+   "inventory_days": 100.97692500627036,
+   "net_debt_incl_leases": 5055.51,
+   "fcf": 1512.0,
+   "fcf_margin": 0.20837927232635062,
+   "fcf_after_leases": 1121.67,
+   "capex": 248.75,
+   "buybacks": 864.38,
+   "dividends": 113.2,
+   "eps_diluted": 4.73,
+   "shares_diluted_m": 277.0,
+   "ocf": 1761.0
+  }
+ },
+ "revenue_10y": [
+  {
+   "fy_label": "FY2017",
+   "fy_end": "Jan 29, 2017",
+   "revenue": 2960.0,
+   "growth": 0.11810000000000001
+  },
+  {
+   "fy_label": "FY2018",
+   "fy_end": "Jan 28, 2018",
+   "revenue": 3270.0,
+   "growth": 0.10220000000000001
+  },
+  {
+   "fy_label": "FY2019",
+   "fy_end": "Feb 3, 2019",
+   "revenue": 3550.0,
+   "growth": 0.08650000000000001
+  },
+  {
+   "fy_label": "FY2020",
+   "fy_end": "Feb 2, 2020",
+   "revenue": 3790.0,
+   "growth": 0.0673
+  },
+  {
+   "fy_label": "FY2021",
+   "fy_end": "Jan 31, 2021",
+   "revenue": 4030.0000000000005,
+   "growth": 0.06309999999999999
+  },
+  {
+   "fy_label": "FY2022",
+   "fy_end": "Jan 30, 2022",
+   "revenue": 4330.0,
+   "growth": 0.0756
+  },
+  {
+   "fy_label": "FY2023",
+   "fy_end": "Jan 29, 2023",
+   "revenue": 5050.0,
+   "growth": 0.16670000000000001
+  },
+  {
+   "fy_label": "FY2024",
+   "fy_end": "Jan 28, 2024",
+   "revenue": 5870.0,
+   "growth": 0.1612
+  },
+  {
+   "fy_label": "FY2025",
+   "fy_end": "Feb 2, 2025",
+   "revenue": 6410.0,
+   "growth": 0.09300000000000001
+  },
+  {
+   "fy_label": "FY2026",
+   "fy_end": "Feb 1, 2026",
+   "revenue": 7260.0,
+   "growth": 0.13140000000000002
+  }
+ ],
+ "comps": {
+  "Dollarama (TSX: DOL)": {
+   "PE Ratio": 41.05,
+   "Forward PE": 38.28,
+   "PS Ratio": 6.96,
+   "P/FCF Ratio": 33.8,
+   "Gross Margin": 0.44689999999999996,
+   "Operating Margin": 0.2285,
+   "Profit Margin": 0.1732,
+   "Revenue Growth": 0.17859999999999998,
+   "Dividend Yield": 0.0023
+  },
+  "Dollar General (NYSE: DG)": {
+   "PE Ratio": 17.15,
+   "Forward PE": 16.53,
+   "PS Ratio": 0.67,
+   "P/FCF Ratio": 14.5,
+   "Gross Margin": 0.3116,
+   "Operating Margin": 0.0572,
+   "Profit Margin": 0.039,
+   "Revenue Growth": 0.04769999999999999,
+   "Dividend Yield": 0.0179
+  },
+  "Dollar Tree (NASDAQ: DLTR)": {
+   "PE Ratio": 15.39,
+   "Forward PE": 18.24,
+   "PS Ratio": 1.17,
+   "P/FCF Ratio": 11.9,
+   "Gross Margin": 0.3718,
+   "Operating Margin": 0.09029999999999999,
+   "Profit Margin": 0.08039999999999999,
+   "Revenue Growth": 0.0818,
+   "Dividend Yield": null
+  },
+  "Five Below (NASDAQ: FIVE)": {
+   "PE Ratio": 20.12,
+   "Forward PE": 22.04,
+   "PS Ratio": 2.32,
+   "P/FCF Ratio": 20.59,
+   "Gross Margin": 0.37579999999999997,
+   "Operating Margin": 0.1167,
+   "Profit Margin": 0.1165,
+   "Revenue Growth": 0.2556,
+   "Dividend Yield": null
+  },
+  "Loblaw (TSX: L)": {
+   "PE Ratio": 28.86,
+   "Forward PE": 25.61,
+   "PS Ratio": 1.21,
+   "P/FCF Ratio": 14.93,
+   "Gross Margin": 0.31370000000000003,
+   "Operating Margin": 0.0718,
+   "Profit Margin": 0.0429,
+   "Revenue Growth": 0.0675,
+   "Dividend Yield": 0.0091
+  },
+  "Metro (TSX: MRU)": {
+   "PE Ratio": 22.79,
+   "Forward PE": 18.64,
+   "PS Ratio": 0.89,
+   "P/FCF Ratio": 16.77,
+   "Gross Margin": 0.1946,
+   "Operating Margin": 0.0625,
+   "Profit Margin": 0.04,
+   "Revenue Growth": 0.0294,
+   "Dividend Yield": 0.017
+  },
+  "Couche-Tard (TSX: ATD)": {
+   "PE Ratio": 17.25,
+   "Forward PE": 18.13,
+   "PS Ratio": 0.68,
+   "P/FCF Ratio": 14.82,
+   "Gross Margin": 0.18239999999999998,
+   "Operating Margin": 0.0588,
+   "Profit Margin": 0.0394,
+   "Revenue Growth": 0.1243,
+   "Dividend Yield": 0.0103
+  }
+ }
+}

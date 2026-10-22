@@ -1,0 +1,77 @@
+{
+ "forecast_rows": {
+  "IS": {
+   "Revenue": 22,
+   "Cost of Revenue": 23,
+   "Gross Profit": 24,
+   "SG&A": 25,
+   "Depreciation & Amortization": 26,
+   "Operating Income (EBIT)": 27,
+   "Interest Expense": 28,
+   "Equity & Other Income": 29,
+   "Pretax Income": 30,
+   "Income Tax": 31,
+   "Net Income": 32,
+   "EPS Diluted (CAD)": 33,
+   "EBIT Margin": 34,
+   "Net Margin": 35
+  },
+  "BS": {
+   "Cash & Short-Term Investments (plug)": 38,
+   "Operating Current Assets": 39,
+   "Net PP&E and Right-of-Use Assets": 40,
+   "Goodwill & Other Long-Term Assets": 41,
+   "Total Assets": 42,
+   "Operating Current Liabilities": 43,
+   "Debt (excl. leases)": 44,
+   "Lease Liabilities": 45,
+   "Other Long-Term Liabilities": 46,
+   "Total Liabilities": 47,
+   "Shareholders' Equity": 48,
+   "Total Liabilities & Equity": 49,
+   "Balance Check (must be 0)": 50,
+   "Shares Outstanding (M)": 51
+  },
+  "CF": {
+   "Net Income": 54,
+   "+ Depreciation & Amortization": 55,
+   "- Increase in Net Working Capital": 56,
+   "Operating Cash Flow": 57,
+   "Capital Expenditures": 58,
+   "Free Cash Flow (pre-lease payments)": 59,
+   "Lease Payments": 60,
+   "Dividends Paid": 61,
+   "Share Buybacks": 62,
+   "Change in Cash (check vs BS)": 63
+  },
+  "DRV": {
+   "Revenue growth": 5,
+   "Gross margin": 6,
+   "SG&A (% of revenue)": 7,
+   "D&A (% of revenue)": 8,
+   "Capex (% of revenue)": 9,
+   "Operating current assets (% of revenue)": 10,
+   "Operating current liabilities (% of revenue)": 11,
+   "PP&E/ROU additions from leases (% of revenue)": 12,
+   "Tax rate": 13,
+   "Interest expense ($M)": 14,
+   "Equity & other income ($M)": 15,
+   "Dividend payout (% of net income)": 16,
+   "Share buybacks ($M per year)": 17,
+   "Lease liabilities growth": 18,
+   "Share count change (buyback effect)": 19
+  }
+ },
+ "model_rows": {
+  "wacc": "B15",
+  "fcff": 18,
+  "price_row": 31,
+  "pv_row": 21
+ },
+ "fy26": {
+  "debt_incl_leases": 5396,
+  "cash": 340.49,
+  "net_debt": 5055.51,
+  "shares": 272.73
+ }
+}
